@@ -6,14 +6,20 @@
 ![Screenshot 2024-07-30 103306](https://github.com/user-attachments/assets/ab2194e1-ba26-4d42-bbbe-34955cd38a01)
 
 
-# Getting Started with Create React App
+# AGE CALCULATOR
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Age Calculator is a simple React application that allows users to calculate their age by entering their birthdate. It accurately calculates and displays the user's age in years, months and days.
 
-## Available Scripts
-(https://github.com/user-attachments/assets/78c73971-be12-4858-a48d-5112d9f97e48)
+## FEATURES
+### User-friendly form to enter birthdate.
 
-In the project directory, you can run:
+### Calculates age in years, months, and days.
+
+### Responsive design that works on all devices.
+
+
+
+# In the project directory, you can run:
 
 ### `npm start`
 
