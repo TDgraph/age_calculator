@@ -57,7 +57,7 @@ const AgeCalculator = () => {
       </div>
       <button onClick={calculateAge}>Submit</button>
       {age && (
-        <div>
+        <div className='age-display'>
           <h2>
             Your Age is {age.years} Years {age.months} Months {age.days} Days
           </h2>

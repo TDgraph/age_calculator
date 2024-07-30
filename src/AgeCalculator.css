@@ -75,14 +75,20 @@
   }
   
   .age-display {
-    margin-top: 50px;
-    color: black; 
-    margin-left: 500px;
+    margin-top: 30px;
+    color: whitesmoke; 
+   
+    
+
   }
   
   .age-display h2 {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 25px;
+    align-items: center;
+    align-content: center;
+    margin-left: 100px;
+    color: whitesmoke;
 
   }
   
